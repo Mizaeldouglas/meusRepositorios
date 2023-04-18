@@ -39,8 +39,8 @@
 </p>
 
 <div>
-  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=RayanneRamos&theme=dracula&show_icons=true" alt="Rayanne Ramo's GitHub stats"><img>
-  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=RayanneRamos&theme=dracula" alt="Rayanne Ramo's Stats" ><img>
+  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=mizaeldouglas&theme=dracula&show_icons=true" alt="Rayanne Ramo's GitHub stats"><img>
+  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=mizaeldouglas&theme=dracula" alt="Rayanne Ramo's Stats" ><img>
 </div>
 
 ## Tecnolgias e Ferramentas
