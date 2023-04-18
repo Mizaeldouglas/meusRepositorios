@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7286D3&height=120&section=header"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7286D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mizael+Douglas;I'm+29+years+old;I'm+from+Brazil;I+Graduated+analyze+system+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## Available Scripts
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mizaeldouglas&bg_color=0d1117&color=7286D3&line=7286D3&point=301E67&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-In the project directory, you can run:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RayanneRamos&show_icons=true&count_private=true&hide_border=true&title_color=7286D3&icon_color=7286D3&text_color=c9d1d9&bg_color=0d1117" alt="Rayanne Ramos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneRamos&layout=compact&hide_border=true&title_color=7286D3&text_color=7286D3&bg_color=0d1117" />
+</div>
 
-### `npm start`
+<div align="center"> 
+<a href="https://instagram.com/rayanne_ramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.rayanneramosoficial@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rayanne-ramos-97abb0181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+  
+### Main skills:
+![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)&nbsp;
+![Styled-Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117)&nbsp;  
+  
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
+  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7286D3&height=120&section=footer"/>
+  
+  
+<!--
+<p align="left">Tenho 25 anos, moro no Rio de Janeiro - RJ, sou bacharel em Ciência da Computação, sou desenvolvedora front-end e
+  no momento busco minha primeira oportunidade no mercado.
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div>
+  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=RayanneRamos&theme=dracula&show_icons=true" alt="Rayanne Ramo's GitHub stats"><img>
+  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=RayanneRamos&theme=dracula" alt="Rayanne Ramo's Stats" ><img>
+</div>
 
-### `npm test`
+## Tecnolgias e Ferramentas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div>
+  <h4 align="left">Front-end:</h4>
+  <p align="left">
+    <img alt="RayanneRamos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="RayanneRamos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="RayanneRamos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img alt="RayanneRamos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="RayanneRamos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="RayanneRamos-Botstrap" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192314860-74681e97-543b-409f-bd35-696ea9838b1b.png">
+  </p>
 
-### `npm run build`
+  <h4 align="left">Back-end:</h4>
+  <p align="left">
+    <img align="center" alt="RayanneRamos-NodeJS" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192315814-f61d3db9-b48a-437b-b80a-d86e358e9d94.png">
+    <img align="center" alt="RayanneRamos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="RayanneRamos-Git" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192318154-a8c6df35-e6a6-46e6-abe6-9f244646e540.png">
+    <img align="center" alt="RayanneRamos-Postgress" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/199116310-ed9fd95b-8b02-4136-a267-4763f9d69f28.png">
+    <img align="center" alt="RayanneRamos-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192315859-2d1e3270-8a1a-419f-abec-88b88b119bbe.png">
+    <img align="center" alt="RayanneRamos-MongoDB" height="30" width="40" src="https://user-images.githubusercontent.com/43352880/192315869-c0fa9a20-8e83-4c8d-8c8a-369f1f5e2a14.png">
+  </p>
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Social Media
+<div>
+  <a href="https://www.instagram.com/rayanne_ramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rayanneramos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <a href = "mailto:rayanneramosoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rayanne-ramos-97abb0181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <!--
+  ![Snake animation](https://github.com/RayanneRamos/RayanneRamos/blob/output/github-contribution-grid-snake.svg)
+  
+ </div>
+-->
+<!--
+**RayanneRamos/RayanneRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Here are some ideas to get you started:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
